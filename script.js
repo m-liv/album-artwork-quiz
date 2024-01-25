@@ -1,3 +1,4 @@
+//Edited 2024
 //Starting conditions
 var redloreScore = 0;
 var repmoreScore = 0;
